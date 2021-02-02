@@ -1,0 +1,28 @@
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin: 20vh;
+    max-width: 85vw;
+}
+
+.container{
+    position: relative;
+    padding: 20px;
+    height: 50vh;
+    width: 500px;
+    max-width: 85vw;
+    box-shadow: 0px 18px 53px 0px rgb(0, 0, 0, 0.3);
+    background-color: pink;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+.signin{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
